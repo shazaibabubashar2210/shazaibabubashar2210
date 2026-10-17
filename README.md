@@ -37,8 +37,8 @@ Recent work is in **ASP.NET Core**, **Angular**, **React**, and **Shopify**.
 
 <div align="center">
 
-<a href="https://github.com/shazaibabubashar2210/Afsan-e-Zamana"><img src="https://github-readme-stats.vercel.app/api/pin/?username=shazaibabubashar2210&repo=Afsan-e-Zamana&theme=tokyonight&hide_border=true" alt="Afsan-e-Zamana" /></a>
 <a href="https://github.com/shazaibabubashar2210/shopify-product-manager"><img src="https://github-readme-stats.vercel.app/api/pin/?username=shazaibabubashar2210&repo=shopify-product-manager&theme=tokyonight&hide_border=true" alt="Shopify product manager" /></a>
+<a href="https://github.com/shazaibabubashar2210/OnlineFoodOrderingSystem"><img src="https://github-readme-stats.vercel.app/api/pin/?username=shazaibabubashar2210&repo=OnlineFoodOrderingSystem&theme=tokyonight&hide_border=true" alt="Online food ordering" /></a>
 
 <a href="https://github.com/shazaibabubashar2210/AlzheimerCareHubPlatform"><img src="https://github-readme-stats.vercel.app/api/pin/?username=shazaibabubashar2210&repo=AlzheimerCareHubPlatform&theme=tokyonight&hide_border=true" alt="Alzheimer Care Hub" /></a>
 <a href="https://github.com/shazaibabubashar2210/smc-scanner"><img src="https://github-readme-stats.vercel.app/api/pin/?username=shazaibabubashar2210&repo=smc-scanner&theme=tokyonight&hide_border=true" alt="SMC scanner" /></a>
@@ -47,12 +47,12 @@ Recent work is in **ASP.NET Core**, **Angular**, **React**, and **Shopify**.
 
 | Project | What it is |
 | --- | --- |
-| [Afsan-e-Zamana](https://github.com/shazaibabubashar2210/Afsan-e-Zamana) | E-commerce store. Angular 21 frontend, ASP.NET Core 9 API, Entity Framework, JWT auth. [Live site](https://afsan-e-zamana.vercel.app) |
+| [Afsan-e-Zamana](https://afsan-e-zamana.vercel.app) | E-commerce store. Angular 21 frontend, ASP.NET Core 9 API, Entity Framework, JWT auth. Live demo |
 | [Shopify Product Manager](https://github.com/shazaibabubashar2210/shopify-product-manager) | Shopify app for product management. React Router, Polaris, Prisma |
 | [Alzheimer Care Hub](https://github.com/shazaibabubashar2210/AlzheimerCareHubPlatform) | Caregiver platform in English and Urdu. ASP.NET MVC, Firebase, appointments, volunteers, and memory games |
 | [SMC Scanner](https://github.com/shazaibabubashar2210/smc-scanner) | Market scanner and backtester. Python, pandas, FastAPI |
 
-Earlier .NET work includes [Online Food Ordering](https://github.com/shazaibabubashar2210/OnlineFoodOrderingSystem) and a [voting app](https://github.com/shazaibabubashar2210/VotingMachine) in C#.
+Earlier .NET work also includes a [voting app](https://github.com/shazaibabubashar2210/VotingMachine) in C#.
 
 ## GitHub
 
@@ -73,7 +73,7 @@ I am open to full-stack engineering roles. Email or LinkedIn is the fastest way 
 | **LinkedIn** | [shazaib-abubashar](https://www.linkedin.com/in/shazaib-abubashar-65a62426b) |
 | **Live product** | [afsan-e-zamana.vercel.app](https://afsan-e-zamana.vercel.app) |
 
-The code to open first is [Afsan-e-Zamana](https://github.com/shazaibabubashar2210/Afsan-e-Zamana) and [Shopify Product Manager](https://github.com/shazaibabubashar2210/shopify-product-manager).
+The live product to open first is [Afsan-e-Zamana](https://afsan-e-zamana.vercel.app). The public code to open first is [Shopify Product Manager](https://github.com/shazaibabubashar2210/shopify-product-manager).
 
 <div align="center">
 
