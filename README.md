@@ -2,7 +2,9 @@
 
 <img src="https://capsule-render.vercel.app/api?type=waving&height=220&color=0:0f172a,100:2563eb&text=Shazaib%20Abubashar&fontSize=46&fontColor=ffffff&fontAlignY=38&desc=Full-stack%20developer%20%C2%B7%20.NET%20%C2%B7%20Angular%20%C2%B7%20React&descAlignY=58&descSize=18" width="100%" alt="Shazaib Abubashar, full-stack developer" />
 
-[![Open to work](https://img.shields.io/badge/Open%20to%20work-Full--stack%20roles-16a34a?style=for-the-badge)](https://github.com/shazaibabubashar2210)
+[![Open to work](https://img.shields.io/badge/Open%20to%20work-Full--stack%20roles-16a34a?style=for-the-badge)](mailto:shazaibabubashar@gmail.com)
+[![Email](https://img.shields.io/badge/Email-shazaibabubashar%40gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:shazaibabubashar@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Shazaib%20Abubashar-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/shazaib-abubashar-65a62426b)
 [![Live product](https://img.shields.io/badge/Live%20demo-Afsan--e--Zamana-0f172a?style=for-the-badge&logo=vercel&logoColor=white)](https://afsan-e-zamana.vercel.app)
 
 I build web products end to end: storefronts, admin tools, and APIs.  
@@ -63,13 +65,19 @@ Earlier .NET work includes [Online Food Ordering](https://github.com/shazaibabub
 
 ## Reach me
 
-I am open to full-stack engineering roles.
+I am open to full-stack engineering roles. Email or LinkedIn is the fastest way to reach me.
 
-The live product to review first is [afsan-e-zamana.vercel.app](https://afsan-e-zamana.vercel.app).  
+| | |
+| --- | --- |
+| **Email** | [shazaibabubashar@gmail.com](mailto:shazaibabubashar@gmail.com) |
+| **LinkedIn** | [shazaib-abubashar](https://www.linkedin.com/in/shazaib-abubashar-65a62426b) |
+| **Live product** | [afsan-e-zamana.vercel.app](https://afsan-e-zamana.vercel.app) |
+
 The code to open first is [Afsan-e-Zamana](https://github.com/shazaibabubashar2210/Afsan-e-Zamana) and [Shopify Product Manager](https://github.com/shazaibabubashar2210/shopify-product-manager).
 
 <div align="center">
 
-[![GitHub](https://img.shields.io/badge/GitHub-shazaibabubashar2210-181717?style=for-the-badge&logo=github)](https://github.com/shazaibabubashar2210)
+[![Email](https://img.shields.io/badge/Email-shazaibabubashar%40gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:shazaibabubashar@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Shazaib%20Abubashar-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/shazaib-abubashar-65a62426b)
 
 </div>
